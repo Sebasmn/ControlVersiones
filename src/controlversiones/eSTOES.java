@@ -10,5 +10,8 @@ package controlversiones;
  * @author ESTUDIANTE
  */
 public class eSTOES {
+    public static void main(String[] args) {
+        
+    }
     
 }
