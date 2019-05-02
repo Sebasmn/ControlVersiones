@@ -12,8 +12,5 @@ package controlversiones;
 public class ClasePrubea {
     public static void main(String[] args) {
 
-        System.out.println("QUIETO PUTO NO ME ESTES PICOTEANDO! ");
-        //COMENTARIO!
-        System.out.println("jol");
     }
 }
