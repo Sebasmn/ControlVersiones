@@ -10,5 +10,5 @@ package controlversiones;
  * @author Usuario1
  */
 public class Conteron {
-    
+    //Universidad Tecnica de Ambato
 }

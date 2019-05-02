@@ -10,5 +10,5 @@ package controlversiones;
  * @author Sebas
  */
 public class Mayorga {
-    
+    // Universidad de Las Americas
 }
