@@ -10,5 +10,7 @@ package controlversiones;
  * @author Usuario1
  */
 public class ClasePrubea {
-    
+    public static void main(String[] args) {
+        System.out.println("FRANCIS GAY");
+    }
 }
