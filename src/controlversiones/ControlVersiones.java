@@ -31,7 +31,7 @@ public class ControlVersiones {
         System.out.println("dgdsgdg");
         System.out.println("dfgdsgdgfdsf");
         System.out.println("INGENIERIA");
-        System.out.println("SOY JAVIER AMIGOS");
+        System.out.println("ya no SOY JAVIER AMIGOS");
     }
     
 }
