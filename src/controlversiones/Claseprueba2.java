@@ -10,5 +10,7 @@ package controlversiones;
  * @author Sebas
  */
 public class Claseprueba2 {
-    
+    public static void main(String[] args) {
+        System.out.println("HOLA MUNDO");
+    }
 }
