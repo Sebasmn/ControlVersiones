@@ -26,6 +26,7 @@ public class ControlVersiones {
         System.out.println("gene");
         System.out.println("");
         System.out.println("Hola");
+        System.out.println("Prueba1");
     }
     
 }
