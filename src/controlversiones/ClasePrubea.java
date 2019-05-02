@@ -11,6 +11,6 @@ package controlversiones;
  */
 public class ClasePrubea {
     public static void main(String[] args) {
-        System.out.println("FRANCIS GAY");
+        System.out.println("FRANCIS PUTO");
     }
 }
